@@ -1,0 +1,11 @@
+E:\NOSU\Лекции\Практикум ПК 2 курс\Stepik C#\3.3\bin\Debug\ReportMaker.cs
+E:\NOSU\Лекции\Практикум ПК 2 курс\Stepik C#\3.3\bin\Debug\Incapsulation.Failures.exe.config
+E:\NOSU\Лекции\Практикум ПК 2 курс\Stepik C#\3.3\bin\Debug\Incapsulation.Failures.exe
+E:\NOSU\Лекции\Практикум ПК 2 курс\Stepik C#\3.3\bin\Debug\Incapsulation.Failures.pdb
+E:\NOSU\Лекции\Практикум ПК 2 курс\Stepik C#\3.3\bin\Debug\nunit.framework.dll
+E:\NOSU\Лекции\Практикум ПК 2 курс\Stepik C#\3.3\bin\Debug\nunitlite.dll
+E:\NOSU\Лекции\Практикум ПК 2 курс\Stepik C#\3.3\obj\Debug\Incapsulation.Failures.csprojAssemblyReference.cache
+E:\NOSU\Лекции\Практикум ПК 2 курс\Stepik C#\3.3\obj\Debug\Incapsulation.Failures.csproj.CoreCompileInputs.cache
+E:\NOSU\Лекции\Практикум ПК 2 курс\Stepik C#\3.3\obj\Debug\Incapsulation.Failures.csproj.CopyComplete
+E:\NOSU\Лекции\Практикум ПК 2 курс\Stepik C#\3.3\obj\Debug\Incapsulation.Failures.exe
+E:\NOSU\Лекции\Практикум ПК 2 курс\Stepik C#\3.3\obj\Debug\Incapsulation.Failures.pdb
